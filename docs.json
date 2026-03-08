@@ -1,0 +1,14 @@
+﻿[
+    {
+        "title": "Reset Password",
+        "content": "Users can reset their password from Settings > Security. If you forget your password, you can click on 'Forgot Password' on the login page. Follow the instructions sent to your registered email address to create a new password. Ensure your new password is at least 8 characters long and contains a mix of letters, numbers, and symbols for better security."
+    },
+    {
+        "title": "Account Creation",
+        "content": "Users can create an account by clicking on Sign Up. You will need to provide a valid email address and create a secure password. Once registered, check your email for a verification link. After verifying your email, you can log in and start using our services. You can also link your Google account for faster registration."
+    },
+    {
+        "title": "Contact Support",
+        "content": "If you need further assistance, you can contact our support team via email at support@baadalsoft.com. Our team is available 24/7 to help you with any issues you may encounter. You can also use the live chat feature on our website for immediate help during business hours, Monday through Friday, 9:00 AM to 5:00 PM."
+    }
+]
