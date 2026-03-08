@@ -179,7 +179,9 @@ Assistant:"""
         traceback.print_exc()
         return jsonify({"error": str(e)}), 500
 
+# Initialize data for WSGI servers
+load_and_chunk_documents()
+load_history()
+
 if __name__ == '__main__':
-    load_and_chunk_documents()
-    load_history()
     app.run(debug=True, port=5000)
